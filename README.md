@@ -2,8 +2,8 @@
 
 ## Game Board
 
-![Game Board](./game-board.png)
+![Game Board](/game-board.png)
 
 ## Game Over
 
-![Game Over](./game-over.png)
+![Game Over](/game-over.png)
